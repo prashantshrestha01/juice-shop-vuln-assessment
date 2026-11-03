@@ -1,0 +1,6 @@
+# No runtime dependencies. This project uses the Python standard library only
+# (argparse, json, collections, pathlib). Nothing to install.
+# pytest is NOT required: the test suite runs with unittest from the stdlib.
+# If you want YAML beyond the built-in YAML-lite subset, PyYAML could be added
+# later, but it is deliberately not required so the tool runs anywhere Python 3
+# is installed.

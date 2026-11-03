@@ -1,0 +1,12 @@
+# Fictional YAML-lite example (same subset the parser supports).
+# Local lab only. Use JSON for anything more complex.
+- id: JS-001
+  title: Fictional example - reflected input in local product search
+  category: A03:2021-Injection
+  severity: High
+  description: Fictional local-lab observation only.
+- id: JS-002
+  title: Fictional example - verbose error page on local login
+  category: A05:2021-Security Misconfiguration
+  severity: Low
+  description: Fictional local-lab observation only.
