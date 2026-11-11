@@ -151,4 +151,4 @@ requirements.txt       No runtime dependencies (see above)
 No real personal data, no secrets, and no credentials appear anywhere in this
 project. Sample findings are fictional and describe only a local Docker lab.
 
-*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
